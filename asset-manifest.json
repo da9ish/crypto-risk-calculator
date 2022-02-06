@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://da9ish.github.io/csb-j1ev3/static/css/main.33a19908.chunk.css",
-    "main.js": "https://da9ish.github.io/csb-j1ev3/static/js/main.9f4f9dad.chunk.js",
-    "main.js.map": "https://da9ish.github.io/csb-j1ev3/static/js/main.9f4f9dad.chunk.js.map",
-    "runtime-main.js": "https://da9ish.github.io/csb-j1ev3/static/js/runtime-main.5c1200dc.js",
-    "runtime-main.js.map": "https://da9ish.github.io/csb-j1ev3/static/js/runtime-main.5c1200dc.js.map",
-    "static/js/2.4f1dc867.chunk.js": "https://da9ish.github.io/csb-j1ev3/static/js/2.4f1dc867.chunk.js",
-    "static/js/2.4f1dc867.chunk.js.map": "https://da9ish.github.io/csb-j1ev3/static/js/2.4f1dc867.chunk.js.map",
-    "index.html": "https://da9ish.github.io/csb-j1ev3/index.html",
-    "static/css/main.33a19908.chunk.css.map": "https://da9ish.github.io/csb-j1ev3/static/css/main.33a19908.chunk.css.map",
-    "static/js/2.4f1dc867.chunk.js.LICENSE.txt": "https://da9ish.github.io/csb-j1ev3/static/js/2.4f1dc867.chunk.js.LICENSE.txt"
+    "main.css": "https://da9ish.github.io/crypto-risk-calculator/static/css/main.33a19908.chunk.css",
+    "main.js": "https://da9ish.github.io/crypto-risk-calculator/static/js/main.9f4f9dad.chunk.js",
+    "main.js.map": "https://da9ish.github.io/crypto-risk-calculator/static/js/main.9f4f9dad.chunk.js.map",
+    "runtime-main.js": "https://da9ish.github.io/crypto-risk-calculator/static/js/runtime-main.5c1200dc.js",
+    "runtime-main.js.map": "https://da9ish.github.io/crypto-risk-calculator/static/js/runtime-main.5c1200dc.js.map",
+    "static/js/2.4f1dc867.chunk.js": "https://da9ish.github.io/crypto-risk-calculator/static/js/2.4f1dc867.chunk.js",
+    "static/js/2.4f1dc867.chunk.js.map": "https://da9ish.github.io/crypto-risk-calculator/static/js/2.4f1dc867.chunk.js.map",
+    "index.html": "https://da9ish.github.io/crypto-risk-calculator/index.html",
+    "static/css/main.33a19908.chunk.css.map": "https://da9ish.github.io/crypto-risk-calculator/static/css/main.33a19908.chunk.css.map",
+    "static/js/2.4f1dc867.chunk.js.LICENSE.txt": "https://da9ish.github.io/crypto-risk-calculator/static/js/2.4f1dc867.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c1200dc.js",
